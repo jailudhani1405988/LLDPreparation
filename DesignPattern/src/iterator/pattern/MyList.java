@@ -1,3 +1,4 @@
+package iterator.pattern;
 public class MyList<T> implements IterableCollection<T> {
     private T[] items;
     private int size;
